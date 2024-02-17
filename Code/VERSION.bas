@@ -7,4 +7,4 @@ Attribute VB_Name = "VERSION"
 '     a) You can use the GNU General Public License, Version 2 or any later version published by the Free Software Foundation.
 '     b) You can use the LaTeX Project Public License, version 1.3c or (at your option) any later version.
 
-Public Const EA_MODEL_VERSION As String = "v1.21"
+Public Const EA_MODEL_VERSION As String = "v1.22"
